@@ -5,4 +5,5 @@ linux-命令,可在edge和谷歌浏览器上安装插件[https://github.com/jayw
 c++使用手册[https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5]  
 quiker[https://getquicker.net/]  
 建造自己的轮子[https://github.com/codecrafters-io/build-your-own-x]  
-计算机免费书籍[https://github.com/ruanyf/free-books]
+计算机免费书籍[https://github.com/ruanyf/free-books]  
+资源导航网站[https://www.tboxn.com/#term-15]
