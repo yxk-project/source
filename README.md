@@ -20,4 +20,6 @@
 [pytorch](https://github.com/yunjey/pytorch-tutorial/tree/master)
 
 [windpws/office激活](https://github.com/zbezj/HEU_KMS_Activator)
+
+[windows激活网站](https://github.com/massgravel/Microsoft-Activation-Scripts)
 [算法cpp](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms?tab=readme-ov-file)
